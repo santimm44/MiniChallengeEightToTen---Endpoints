@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MiniChallengeEightToTen---Endpoints.props" />
+</Project>

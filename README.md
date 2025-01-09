@@ -26,3 +26,7 @@ Things to turn in:
 - Project, zipped
 - Github link in comments
 - Don't forget the peer review!
+
+## Peer Review
+
+Hassan Sajid - So instead of having 3 different guess its which do not clarify if they are easy, medium, or hard; you should have one where the user is able to pick which mode to choose and then input a number depending on the mode they're in. Also the guess it seems to be resetting every time I execute because if i put in 33, it says "too low" and if I put in 34 it says "too high" and there is no clear way of getting the numbers right. (This goes for all of the guess its). Other than that, your magic 8 ball and restaurant picker work perfectly. Good job!
