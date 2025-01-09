@@ -31,3 +31,36 @@
 /Users/hassan/Downloads/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.pdb
 /Users/hassan/Downloads/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.genruntimeconfig.cache
 /Users/hassan/Downloads/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/ref/MiniChallengeEightToTen---Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/appsettings.Development.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/appsettings.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/MiniChallengeEightToTen---Endpoints
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/MiniChallengeEightToTen---Endpoints.deps.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/MiniChallengeEightToTen---Endpoints.runtimeconfig.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/MiniChallengeEightToTen---Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/MiniChallengeEightToTen---Endpoints.pdb
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.csproj.AssemblyReference.cache
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.AssemblyInfoInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.AssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.csproj.CoreCompileInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.sourcelink.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets.build.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets.development.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.MiniChallengeEightToTen---Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.build.MiniChallengeEightToTen---Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MiniChallengeEightToTen---Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MiniChallengeEightToTen---Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/staticwebassets.pack.json
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/scopedcss/bundle/MiniChallengeEightToTen---Endpoints.styles.css
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.csproj.CopyComplete
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/refint/MiniChallengeEightToTen---Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.pdb
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/MiniChallengeEightToTen---Endpoints.genruntimeconfig.cache
+/home/santiago/Documents/CodeStack/Level 2/Assignments/Mini-Challenges/MontanezSJMC-EightToTen-Endpoints/MiniChallengeEightToTen---Endpoints/obj/Debug/net8.0/ref/MiniChallengeEightToTen---Endpoints.dll
